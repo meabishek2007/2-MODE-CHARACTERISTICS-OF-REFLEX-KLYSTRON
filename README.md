@@ -1,7 +1,6 @@
 # 2-MODE-CHARACTERISTICS-OF-REFLEX-KLYSTRON
 
 **Aim:**
-
 To study mode characteristics of reflex klystron and hence to determine mode number,transit time electronic tuning range (ETR) and electronic tuning sensitivity (ETS)
 
 **Equipment and Component:**
@@ -32,6 +31,7 @@ Electrons emitted from the cathode are accelerated by and pass through the posit
 As the electron bunches pass through the resonator grids, they interact with the voltage between the grids. If the bunches pass through the grids at a time such that the electrons are slowed downby the grid voltage energy will be delivered to the resonator and the klystron will oscillate. Strongest oscillation will occur when transit time in the reflector resonator region n +
 ¾ cyclesof the resonator frequency, where ‘n’ an integer is including zero. If the bunches pass throughthe grids at a time such that the electrons are accelerated by the voltage, energy will be removed from the resonator and no oscillations will occur.
 
+
 **Procedure:**
 
 1.	Connect the components and equipment as shown 
@@ -54,7 +54,8 @@ Mechanical and Electronic Tuning
 Mechanical tuning depends on changing the width of cavity i.e. the effective I capacitance and thus the resonant frequency of the klystron changes. The power output remains same with tuning.
 Electronic tuning refers to change in repeller voltage causing a change in output frequency. However, the power output also changes. A measure of electronic tuning is given by ‘Electronic tuning Sensitivity (ETS)’. This can be determined by taking the slope of the frequency characteristic of the modes.
 
-**Observation: ( Include your own Table relevant to the Experiment)**
+**Observation:**
+
 <img width="1042" height="745" alt="image" src="https://github.com/user-attachments/assets/40b52843-0c82-4a16-9940-0a607faa11d5" />
 
 ![WhatsApp Image 2026-03-16 at 9 15 27 PM](https://github.com/user-attachments/assets/a2e11e6e-e8a3-441a-9d50-1220bd55bf46)
@@ -78,7 +79,9 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 12.	If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches.
 13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
-Result:
+
+**Result:**
+
 The mode characteristics of the Reflex Klystron were studied successfully.
    	
    	
